@@ -24,4 +24,3 @@
 * Parameters
 * Function Body
 
-* **Ugwu Justine Obinna** [Justine](https://github.com/ugwujustine)- ALX-Africa SE Student
